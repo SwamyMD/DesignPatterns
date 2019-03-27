@@ -5,3 +5,4 @@
 /.vs
 /ObserverPattern/01 ObserverBasic/bin/Debug/netcoreapp2.2
 /ObserverPattern/01 ObserverBasic/obj
+/ObserverPattern/02 ObserverDifferentNotification/obj/Debug/netcoreapp2.2
