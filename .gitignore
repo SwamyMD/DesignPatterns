@@ -11,3 +11,5 @@
 /ObserverPattern/02 ObserverDifferentNotification/obj
 /ObserverPattern/04 ObserverUsingOperator/bin/Debug/netcoreapp2.2
 /ObserverPattern/04 ObserverUsingOperator/obj
+/ObserverPattern/05 ObserverUsingEvents/bin/Debug/netcoreapp2.2
+/ObserverPattern/05 ObserverUsingEvents/obj
