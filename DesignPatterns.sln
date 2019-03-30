@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverPattern", "ObserverPattern", "{A5AB9FDF-E8C3-48B4-86B3-F863F272BCB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 ObserverBasic", "ObserverPattern\01 ObserverBasic\01 ObserverBasic.csproj", "{4CE64382-81BF-49D7-97A0-B716BA3CE034}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 ObserverBasic", "ObserverPattern\01 ObserverBasic\01 ObserverBasic.csproj", "{4CE64382-81BF-49D7-97A0-B716BA3CE034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 ObserverDifferentNotification", "ObserverPattern\02 ObserverDifferentNotification\02 ObserverDifferentNotification.csproj", "{99D55B77-7D3D-409F-B19F-DD747794A00A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 ObserverDifferentNotification", "ObserverPattern\02 ObserverDifferentNotification\02 ObserverDifferentNotification.csproj", "{99D55B77-7D3D-409F-B19F-DD747794A00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 ObserverAdvance", "ObserverPattern\03 ObserverAdvance\03 ObserverAdvance.csproj", "{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{99D55B77-7D3D-409F-B19F-DD747794A00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D55B77-7D3D-409F-B19F-DD747794A00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D55B77-7D3D-409F-B19F-DD747794A00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4CE64382-81BF-49D7-97A0-B716BA3CE034} = {A5AB9FDF-E8C3-48B4-86B3-F863F272BCB7}
 		{99D55B77-7D3D-409F-B19F-DD747794A00A} = {A5AB9FDF-E8C3-48B4-86B3-F863F272BCB7}
+		{BFB31B73-9DA1-41B5-AC56-A03E1D3E2B30} = {A5AB9FDF-E8C3-48B4-86B3-F863F272BCB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E78F6EE8-E331-4A27-9ED7-6BCFA3245B11}
