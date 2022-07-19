@@ -13,3 +13,5 @@
 /ObserverPattern/04 ObserverUsingOperator/obj
 /ObserverPattern/05 ObserverUsingEvents/bin/Debug/netcoreapp2.2
 /ObserverPattern/05 ObserverUsingEvents/obj
+/MomentoPattern/UndoOperation/bin/Debug/net5.0
+/MomentoPattern/UndoOperation/obj
